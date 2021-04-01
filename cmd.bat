@@ -1,0 +1,1 @@
+type D:\MOIWEB\MOITacsoft\Web.config
